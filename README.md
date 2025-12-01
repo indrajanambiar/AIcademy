@@ -1,4 +1,4 @@
-# 🎓 Adaptive AI Learning Coach and Assistant
+# 🎓 AIcademy - AI Learning Coach and Assistant
 
 An intelligent, conversational AI tutor that adapts to each learner's pace, tracks progress, and provides personalized learning experiences through multi-agent workflows.
 
